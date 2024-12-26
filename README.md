@@ -17,5 +17,5 @@ node node.js
 bash
 pip install -r requirements.txt
 
-python node.py
+python chat.py
 ```
