@@ -1,8 +1,7 @@
-
 {
-  "name": "chatbot-nodejs",
+  "name": "neura-nodejs",
   "version": "1.0.0",
-  "description": "A simple chatbot using Node.js and Python",
+  "description": "A simple chatbot using Node.js and Python3",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
