@@ -3,17 +3,19 @@ A chatbot using Python3 nltk sys and json
 
 # nodejs and Python3 chat bot
 the node.py and node.js are for web chatbot so to activate it
-
+```
 npm init -y
 
 npm install
 
 node node.js
-
+```
 
 # python chatbot shell only
 
 ```
 bash
 pip install -r requirements.txt
+
+python node.py
 ```
