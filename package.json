@@ -1,5 +1,5 @@
 {
-  "name": "neura-nodejs",
+  "name": "Chatbot using Python3 and Nodejs",
   "version": "1.0.0",
   "description": "A simple chatbot using Node.js and Python3",
   "main": "index.js",
